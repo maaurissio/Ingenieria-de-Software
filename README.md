@@ -1,6 +1,6 @@
 # Ingeniería de Software
 
-Este repositorio contiene los informes **DAS**.
+Este repositorio contiene archivos del ramo.
 
 ## Integrantes
 
